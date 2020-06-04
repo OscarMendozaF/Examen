@@ -21,4 +21,4 @@ estatalController.list = (req, res)=>{
         })
 };
 
-module.exports = PintoresController;
+module.exports = PintoresController;  
